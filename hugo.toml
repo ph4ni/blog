@@ -1,1 +1,4 @@
+baseURL = 'https://ph4ni.github.io/'
+languageCode = 'en-us'
+title = 'Phanis Blog'
 theme = 'console'
