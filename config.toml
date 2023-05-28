@@ -1,4 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Phanis Blog'
 theme = 'console'
+[params]
+custom_js = ["oneko.js"]

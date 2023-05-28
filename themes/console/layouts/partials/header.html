@@ -1,1 +1,4 @@
 <!-- Keep - override to add code to <header /> tag -->
+{{ range .Site.Params.custom_js }}
+    <script src="{{ . | absURL }}"></script>
+{{ end }}

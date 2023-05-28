@@ -27,9 +27,10 @@
     {{ template "_internal/google_analytics.html" . }}
 
     {{- partial "header.html" . -}}
-    <script src="{{ "./oneko.js" | relURL }}"></script>
+    
 </head>
 <body class="terminal">
+  <script src="{{ "./oneko.js" | relURL }}"></script>
     <div class="container">
         <div class="terminal-nav">
           <header class="terminal-logo">
