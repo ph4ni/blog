@@ -1,4 +1,4 @@
-baseURL = 'https://ph4ni.github.io/'
+baseURL = 'https://cpuonfire.com/'
 languageCode = 'en-us'
 title = 'Phanis Blog'
 theme = 'console'
